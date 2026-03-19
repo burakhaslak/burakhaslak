@@ -31,7 +31,7 @@ Frontend    →  HTML5, CSS3, Tailwind CSS, Bootstrap, Razor Views
 
 ---
 
-## A Bit About Me
+### A Bit About Me
 
 - 🧠 My linguistics background taught me to think in structures and that mindset translates surprisingly well to software architecture
 - 🌍 Based in Istanbul, open to opportunities anywhere out there
