@@ -35,7 +35,6 @@ Frontend    →  HTML5, CSS3, Tailwind CSS, Bootstrap, Razor Views
 
 - 🧠 My linguistics background taught me to think in structures and that mindset translates surprisingly well to software architecture
 - 🌍 Based in Istanbul, open to opportunities anywhere out there
-- 🇩🇪 Currently learning German (A2.2)
 - 📬 Reach me at: linkedin.com/in/burakhaslak
 ---
 
